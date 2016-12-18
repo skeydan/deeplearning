@@ -1,0 +1,27 @@
+#body {
+#background-color: #111111;
+#}
+.reveal p {
+color: white;
+}
+.reveal ul, ol {
+color: white;
+}
+#div.output_area pre {
+#color: white;
+#}
+#div.output_stderr {
+#background: #F00;
+#}
+.reveal table th, .reveal table td {
+color: white;
+}
+.reveal figcaption {
+color: white;
+}
+.reveal h1 {
+font-size: 3em;
+}
+.reveal figure img {
+margin-right: 5em;
+}
